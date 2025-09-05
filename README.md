@@ -1,4 +1,4 @@
-<h1 align="left"># Hi there 👋 I'm Chirag Bansal</h1>
+<h1 align="left"> Hi there 👋 I'm Chirag Bansal</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">## 👨‍💻 About Me<br>- 🌱 Currently exploring **AI, IoT, and scalable backend systems**  <br>- 💡 Love building **end-to-end applications** that combine ML, IoT, and full-stack development  <br>- 🎯 Goals: Contribute to impactful open-source projects & publish innovative research  <br>- ⚡ Fun fact: I enjoy debugging with coffee ☕ and turning ideas into working prototypes</p>
+<p align="left">🌱 Currently exploring AI, IoT, and scalable backend systems <br>💡 Love building end-to-end applications that combine ML, IoT, and full-stack development  <br>🎯 Goals: Contribute to impactful open-source projects & publish innovative research  <br>⚡ Fun fact: I enjoy debugging with coffee ☕ and turning ideas into working prototypes</p>
 
 ###
 
@@ -79,4 +79,5 @@
 </div>
 
 ###
+
 
